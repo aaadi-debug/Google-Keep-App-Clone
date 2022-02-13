@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Google-Keep-App-Clone/static/css/main.fa8b0db0.chunk.css",
+    "main.js": "/Google-Keep-App-Clone/static/js/main.c50d629c.chunk.js",
+    "main.js.map": "/Google-Keep-App-Clone/static/js/main.c50d629c.chunk.js.map",
+    "runtime-main.js": "/Google-Keep-App-Clone/static/js/runtime-main.d8f2ad32.js",
+    "runtime-main.js.map": "/Google-Keep-App-Clone/static/js/runtime-main.d8f2ad32.js.map",
+    "static/js/2.b063ba62.chunk.js": "/Google-Keep-App-Clone/static/js/2.b063ba62.chunk.js",
+    "static/js/2.b063ba62.chunk.js.map": "/Google-Keep-App-Clone/static/js/2.b063ba62.chunk.js.map",
+    "index.html": "/Google-Keep-App-Clone/index.html",
+    "static/css/main.fa8b0db0.chunk.css.map": "/Google-Keep-App-Clone/static/css/main.fa8b0db0.chunk.css.map",
+    "static/js/2.b063ba62.chunk.js.LICENSE.txt": "/Google-Keep-App-Clone/static/js/2.b063ba62.chunk.js.LICENSE.txt",
+    "static/media/logo.de200039.png": "/Google-Keep-App-Clone/static/media/logo.de200039.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8f2ad32.js",
+    "static/js/2.b063ba62.chunk.js",
+    "static/css/main.fa8b0db0.chunk.css",
+    "static/js/main.c50d629c.chunk.js"
+  ]
+}
