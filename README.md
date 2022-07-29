@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hosted with github pages: https://aaadi-debug.github.io/Google-Keep-App-Clone/
+
 ## Available Scripts
 
 In the project directory, you can run:
